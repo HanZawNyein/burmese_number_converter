@@ -2,10 +2,8 @@
 
 ### about
 
-```doctest
-author : Han Zaw Nyein
-email  : hanzawnyineonline@gmail.com
-```
+    author : Han Zaw Nyein
+    email  : hanzawnyineonline@gmail.com
 
 ### Date, Datetime
 
