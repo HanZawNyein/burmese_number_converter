@@ -6,6 +6,12 @@
     email  : hanzawnyineonline@gmail.com
     version: 1.0.1
 
+### Install
+    pip3 install burmese-number-converter
+
+### More Information
+    https://pypi.org/project/burmese-number-converter/
+
 ### Date, Datetime
 
 ```python
