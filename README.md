@@ -4,6 +4,7 @@
 
     author : Han Zaw Nyein
     email  : hanzawnyineonline@gmail.com
+    version: 1.0.1
 
 ### Date, Datetime
 
